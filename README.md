@@ -5,5 +5,7 @@ make_DOI is a data upload tool is build with Python Flask and jQuery-File-Upload
 
 # Installation instructions:
 Install all packages in the requirements.txt.
+
 Place the ztoken.txt file in the main folder in order to connect to Zenodo.
+
 create your own settings.py file in the root directory containing the settings for your deployment.
