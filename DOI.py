@@ -1,5 +1,5 @@
 # Script for uploading data and generating DOI using Zenodo services
-# Modified from Joan Sala Calero, Deltares, (https://github.com/markusSMHI/sip-html5-data-upload).
+# Modified from Joan Sala Calero, Deltares, (https://github.com/switchonproject/sip-html5-data-upload).
 
 import requests
 import json
